@@ -1,0 +1,20 @@
+-------------------------------------
+Round 1
+Ruslan get hit with 34 damage
+Defender: Ruslan health = [31 / 60]
+Attacker: NIKKI health = [62 / 57]
+-------------------------------------
+Round 2
+Ruslan get hit with 17 damage
+Defender: Ruslan health = [19 / 60]
+Attacker: NIKKI health = [67 / 57]
+-------------------------------------
+Round 3
+Ruslan get hit with 17 damage
+Defender: Ruslan health = [7 / 60]
+Attacker: NIKKI health = [72 / 57]
+-------------------------------------
+Round 4
+Ruslan get hit with 17 damage
+Defender: Ruslan health = [0 / 60]
+Attacker: NIKKI health = [77 / 57]

@@ -1,0 +1,35 @@
+-------------------------------------
+Round 1
+Volodia get hit with 55 damage
+Defender: Volodia health = [98 / 148]
+Attacker: Max health = [58 / 53]
+-------------------------------------
+Round 2
+Volodia get hit with 21 damage
+Defender: Volodia health = [82 / 148]
+Attacker: Max health = [63 / 53]
+-------------------------------------
+Round 3
+Max get hit with 0 damage
+Defender: Max health = [68 / 53]
+Attacker: Volodia health = [87 / 148]
+-------------------------------------
+Round 4
+Volodia get hit with 21 damage
+Defender: Volodia health = [71 / 148]
+Attacker: Max health = [73 / 53]
+-------------------------------------
+Round 5
+Volodia get hit with 21 damage
+Defender: Volodia health = [55 / 148]
+Attacker: Max health = [78 / 53]
+-------------------------------------
+Round 6
+Volodia get hit with 21 damage
+Defender: Volodia health = [39 / 148]
+Attacker: Max health = [83 / 53]
+-------------------------------------
+Round 7
+Volodia get hit with 55 damage
+Defender: Volodia health = [0 / 148]
+Attacker: Max health = [88 / 53]
